@@ -1,0 +1,45 @@
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    margin:20px;
+}
+.btn{
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.main{
+    background-color: rgb(rgb(58, 61, 78), green, blue);
+    height: 90%;
+    width: 100%;
+}
+
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.split{
+    
+}
+.left{
+    float:left;
+    
+    width: 33.3%;
+}
+.middle{
+    float: left;
+    
+    width: 33.3%;
+}
+.right{
+    float:right;
+ 
+    width: 33.3%;
+}
+footer{
+    background: fixed;
+    background-color: lightgray;
+}
